@@ -19,3 +19,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+The following portions of this software are released under the MIT license with a copyright of Ilmatieteen laitos(Finnish Meteorological Institute) (2024) in fmi-open-pv-forecast (https://github.com/fmidev/fmi-open-pv-forecast):
+- astronomical_calculations.py
+- irradiance_transpositions.py
+- output_estimator.py
+- panel_temperature_estimator.py
+- reflection_estimator.py
+- solar_irradiance_estimator.py
